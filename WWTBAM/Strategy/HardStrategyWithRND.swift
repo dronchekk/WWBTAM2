@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// MARK: Random order of questions
 final class HardStrategyWithRND {
 
     let questionManager: QuestionManager

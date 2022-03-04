@@ -7,6 +7,7 @@
 
 import UIKit
 
+// MARK: VC for adding questions by players
 class AddQuestionViewController: UIViewController {
 
     @IBOutlet var questionTextField: UITextField!
