@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// MARK: Records of played games 
 class RecordsViewController: UIViewController {
     private let dateFormatter: DateFormatter = {
         let dateFormatter = DateFormatter()
